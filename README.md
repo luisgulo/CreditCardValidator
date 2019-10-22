@@ -14,4 +14,4 @@ Luhn's algorithm is used to verify that it is valid, does not establish any conn
 
 
 
-![Screenshot of CreditCardValidator](https://raw.githubusercontent.com/luisgulo/CreditCardValidator/master/CreditCardValidator.png)
+![Screenshot of CreditCardValidator](https://raw.githubusercontent.com/luisgulo/CreditCardValidator/master/screenshot_CreditCardValidator.png)
