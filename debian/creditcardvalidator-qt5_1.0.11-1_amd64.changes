@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 22 Oct 2019 12:00:00 +0000
+Source: creditcardvalidator-qt5
+Binary: creditcardvalidator-qt5
+Architecture: source all
+Version: 1.0.11-1
+Distribution: unstable
+Urgency: low
+Maintainer: luisgulo <luisgulo@gmail.com>
+Changed-By: luisgulo <luisgulo@gmail.com>
+Description:
+ creditcardvalidator-qt5 - qt5 package for CreditCardValidator
+Changes:
+ creditcardvalidator-qt5 (1.0.11-1) unstable; urgency=low
+ .
+   * Se incluye logotipos y mejora en errores de cadenas vacias
+Checksums-Sha1:
+ 3203bdfaf13115069f985018a6ff4f7ba5a17c4a 601 creditcardvalidator-qt5_1.0.11-1.dsc
+ 63d090c848ae0820c2fd7cba091a018bc6b57372 861 creditcardvalidator-qt5_1.0.11-1.tar.gz
+ a9e776305f291034b3daa9a5dc7c12c62fa624bd 1368 creditcardvalidator-qt5_1.0.11-1_all.deb
+ 5e50c84d761806b228de93acb12f3b42325866d7 5299 creditcardvalidator-qt5_1.0.11-1_amd64.buildinfo
+Checksums-Sha256:
+ 3fc1bc3c27b8f07a9dffe6cbb84a2636a23e049599e8671b1dda62f1aef2ac6b 601 creditcardvalidator-qt5_1.0.11-1.dsc
+ be176439686d415996470a56d5e46aaa23c0191510da720f3661f83ec0bd218d 861 creditcardvalidator-qt5_1.0.11-1.tar.gz
+ 0aa06c9ab2ef3900b4449566aa22a3d7e27da58b409e98d3419cb29c617a9487 1368 creditcardvalidator-qt5_1.0.11-1_all.deb
+ c716e1a23445e71c06ce598f94e8d75958163572b149c8476bc89f295029f90d 5299 creditcardvalidator-qt5_1.0.11-1_amd64.buildinfo
+Files:
+ 4faa999d2142aca82b556d3cb1f074d9 601 contrib/utils optional creditcardvalidator-qt5_1.0.11-1.dsc
+ a3c51778cb93c9f6f7666e2e93f6771a 861 contrib/utils optional creditcardvalidator-qt5_1.0.11-1.tar.gz
+ 3da4587ba9a3c43d446d4764b8b7973f 1368 contrib/utils optional creditcardvalidator-qt5_1.0.11-1_all.deb
+ aa7ce488632d2c22d3295a69e2b86130 5299 contrib/utils optional creditcardvalidator-qt5_1.0.11-1_amd64.buildinfo

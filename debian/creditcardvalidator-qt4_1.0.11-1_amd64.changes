@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 22 Oct 2019 12:00:00 +0000
+Source: creditcardvalidator-qt4
+Binary: creditcardvalidator-qt4
+Architecture: source all
+Version: 1.0.11-1
+Distribution: unstable
+Urgency: low
+Maintainer: luisgulo <luisgulo@gmail.com>
+Changed-By: luisgulo <luisgulo@gmail.com>
+Description:
+ creditcardvalidator-qt4 - qt4 package for CreditCardValidator
+Changes:
+ creditcardvalidator-qt4 (1.0.11-1) unstable; urgency=low
+ .
+   * Se incluye logotipos y mejora en errores de cadenas vacias
+Checksums-Sha1:
+ e38580d4558cb01bd0df9ae7b7400bf3b4ab2362 601 creditcardvalidator-qt4_1.0.11-1.dsc
+ 59853ca4a1548c9b1a91a3954ab091a67e7d0f80 861 creditcardvalidator-qt4_1.0.11-1.tar.gz
+ 86416bec016bf710a080913ed045af3bc0f8611e 1372 creditcardvalidator-qt4_1.0.11-1_all.deb
+ 5c3c01f3e108aed49ff5f5756b38b9d0481faff6 5299 creditcardvalidator-qt4_1.0.11-1_amd64.buildinfo
+Checksums-Sha256:
+ 1e30e68f6942efa57ce5bbb75039e3ca5734f7377f146d0ba3394f7b14eefb85 601 creditcardvalidator-qt4_1.0.11-1.dsc
+ 7ce63a50cdfdceba213d910e17fbff1040c210c9647dabaf284cc0005d451a24 861 creditcardvalidator-qt4_1.0.11-1.tar.gz
+ 02c0f5fc5c235d34c442c2682bdc1ae68cbfc94413a367f0846d18904cfd1227 1372 creditcardvalidator-qt4_1.0.11-1_all.deb
+ 5301411e9113d2481f8c8e026ea6a9b3684a5656a0d262fb33dc548786338fee 5299 creditcardvalidator-qt4_1.0.11-1_amd64.buildinfo
+Files:
+ 68b6a52b086589f13a968d6c76232ede 601 contrib/utils optional creditcardvalidator-qt4_1.0.11-1.dsc
+ c8d59000277f32c1d815995a2c74e37f 861 contrib/utils optional creditcardvalidator-qt4_1.0.11-1.tar.gz
+ 013afa75ea139a833ef0fd8f31b1c484 1372 contrib/utils optional creditcardvalidator-qt4_1.0.11-1_all.deb
+ 7a29563d58b5579f63b6332505bdbf90 5299 contrib/utils optional creditcardvalidator-qt4_1.0.11-1_amd64.buildinfo

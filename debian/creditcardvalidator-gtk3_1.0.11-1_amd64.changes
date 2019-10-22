@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 22 Oct 2019 12:00:00 +0000
+Source: creditcardvalidator-gtk3
+Binary: creditcardvalidator-gtk3
+Architecture: source all
+Version: 1.0.11-1
+Distribution: unstable
+Urgency: low
+Maintainer: luisgulo <luisgulo@gmail.com>
+Changed-By: luisgulo <luisgulo@gmail.com>
+Description:
+ creditcardvalidator-gtk3 - gtk3 package for CreditCardValidator
+Changes:
+ creditcardvalidator-gtk3 (1.0.11-1) unstable; urgency=low
+ .
+   * Se incluye logotipos y mejora en errores de cadenas vacias
+Checksums-Sha1:
+ 06665c8bc7cd46f6bc99b721a3dc830f2f483ab9 607 creditcardvalidator-gtk3_1.0.11-1.dsc
+ a8b10405b203ea599a3b0548de223ece361fe08d 862 creditcardvalidator-gtk3_1.0.11-1.tar.gz
+ afea5a6111df85467b8da21ba997e735f0b175f4 1372 creditcardvalidator-gtk3_1.0.11-1_all.deb
+ 0bc6cad7fcceab57344281087da103b03fcd108d 5307 creditcardvalidator-gtk3_1.0.11-1_amd64.buildinfo
+Checksums-Sha256:
+ 2464a0703bfc3738e4a5dd434ae24b9758abdf56cfef1f3d6e0e89defb2d423c 607 creditcardvalidator-gtk3_1.0.11-1.dsc
+ 2c13ec5c08a955a47e500e5b318c426f8c71cef9a196766676e0aa68dbd3d109 862 creditcardvalidator-gtk3_1.0.11-1.tar.gz
+ f5f8da2886e4dc0a6431907a1adb0c7db9bc634478fe9cb0a197026a27e1c4c3 1372 creditcardvalidator-gtk3_1.0.11-1_all.deb
+ c261c5b9b7918545f3b8a6bb1ff8f3f4c19168ad126795b439e0f5f634dc00cd 5307 creditcardvalidator-gtk3_1.0.11-1_amd64.buildinfo
+Files:
+ 412c162a398c0b25c071be4bc4652098 607 contrib/utils optional creditcardvalidator-gtk3_1.0.11-1.dsc
+ 5b5a96e0806f3b6ebbae754bc3cef80d 862 contrib/utils optional creditcardvalidator-gtk3_1.0.11-1.tar.gz
+ b33e653c69380831beddf6ad647d8300 1372 contrib/utils optional creditcardvalidator-gtk3_1.0.11-1_all.deb
+ 7fbae1b89c1e198718495267c6e92434 5307 contrib/utils optional creditcardvalidator-gtk3_1.0.11-1_amd64.buildinfo

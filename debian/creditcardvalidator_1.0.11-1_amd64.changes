@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 22 Oct 2019 12:00:00 +0000
+Source: creditcardvalidator
+Binary: creditcardvalidator
+Architecture: source all
+Version: 1.0.11-1
+Distribution: unstable
+Urgency: low
+Maintainer: luisgulo <luisgulo@gmail.com>
+Changed-By: luisgulo <luisgulo@gmail.com>
+Description:
+ creditcardvalidator - Validador de Tarjeta de Crédito Credit Card Validator
+Changes:
+ creditcardvalidator (1.0.11-1) unstable; urgency=low
+ .
+   * Se incluye logotipos y mejora en errores de cadenas vacias
+Checksums-Sha1:
+ 37bfa5009fbb8a53b5357f630b3be86c53f20882 1025 creditcardvalidator_1.0.11-1.dsc
+ e852e8af9639bb0ca63fc8ac6492a370d8df057f 1352 creditcardvalidator_1.0.11-1.diff.gz
+ 852110efde9021098288e2f205d9973926929566 134776 creditcardvalidator_1.0.11-1_all.deb
+ bab6f5931623c2a9d1fcbc5a4dd399aae0e17890 5421 creditcardvalidator_1.0.11-1_amd64.buildinfo
+Checksums-Sha256:
+ 663d5ed2c31fecd94fdbef9290e00c571d3d11e4318e79d2ace161908a824891 1025 creditcardvalidator_1.0.11-1.dsc
+ 864a521464e2b6631cb0e3d4bc47e5c6dfa98953631cdafb49ff45f52cbbebdd 1352 creditcardvalidator_1.0.11-1.diff.gz
+ 93ea30220a2f1ad51dffb82e40d61e7bc883f3b7fd2224150cc66ca2cab6a1d9 134776 creditcardvalidator_1.0.11-1_all.deb
+ 1900df16f3840930a383b4842ed7918e5f80de4de9093dae9eb8cb1a22a304ac 5421 creditcardvalidator_1.0.11-1_amd64.buildinfo
+Files:
+ ce6b017bdab7caafa1f75a63ca846f7e 1025 contrib/utils optional creditcardvalidator_1.0.11-1.dsc
+ 85506fb84f072369846dbc9834cbd91b 1352 contrib/utils optional creditcardvalidator_1.0.11-1.diff.gz
+ 3a4809e7d99d24ec657634d3be35ca1d 134776 contrib/utils optional creditcardvalidator_1.0.11-1_all.deb
+ 713edd1f79ff766bb603543365b2849b 5421 contrib/utils optional creditcardvalidator_1.0.11-1_amd64.buildinfo
